@@ -3,10 +3,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1"/>
-<title>Spring Web App</title>
+<title>Spring Web App JSP Test Page</title>
 </head>
 <body>
- 	Welcome to Sample Web App created with Spring.
- 	<a href="test.jsp">Test</a>
+ 	Welcome to Sample Web App - Test Page.
 </body>
 </html>
